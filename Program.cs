@@ -14,7 +14,12 @@ namespace BasicCorePrograms
             //LargestAmongThree.getLargest();
             //SwapNumbers.swapTwoNumbers();
 
-            QuotientReminder.getQuitientReminder();
+            //QuotientReminder.getQuitientReminder();
+
+            //vowelOrNot.checkVowel();
+            //PrimeFctots.getPrimeFactors();
+
+            vowelOrNot.checkVowel();
         }
     }
 }
